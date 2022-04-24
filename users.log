@@ -1,0 +1,18 @@
+[2022-04-07 16:41:54,159] INFO [users.views:192] sarboland@email.com logged in successfully.
+[2022-04-07 16:42:07,143] INFO [users.views:334] AnonymousUser logged out.
+[2022-04-11 20:30:38,279] INFO [users.views:192] sarboland@email.com logged in successfully.
+[2022-04-13 11:05:08,484] WARNING [users.views:57] the user with sarboland is created not activated!
+[2022-04-13 11:05:12,732] INFO [users.views:74] the activate email sent to sarboland.afsaneh@yahoo.com
+[2022-04-13 11:05:22,173] INFO [users.views:119] sarboland@email.com activated successfully
+[2022-04-13 11:05:22,348] INFO [users.views:121] sarboland@email.com logged in.
+[2022-04-13 11:07:06,188] WARNING [users.views:57] the user with yoosefi is created not activated!
+[2022-04-13 11:07:09,182] INFO [users.views:74] the activate email sent to afsanehsarboland@gmail.com
+[2022-04-13 11:07:27,209] INFO [users.views:119] yoosefi@email.com activated successfully
+[2022-04-13 11:07:28,346] INFO [users.views:121] yoosefi@email.com logged in.
+[2022-04-13 11:23:41,534] INFO [users.views:416] testuser1 deleted test_contact from contact list.
+[2022-04-13 11:23:42,084] INFO [users.views:431] testuser1 exported contact csv file.
+[2022-04-13 11:23:43,193] INFO [users.views:376] testuser1 deleted test_contact from contact list.
+[2022-04-13 11:23:43,751] INFO [users.views:376] testuser1 deleted test_contact from contact list.
+[2022-04-13 11:23:43,759] INFO [users.views:416] testuser1 deleted test_contact from contact list.
+[2022-04-13 11:23:45,210] INFO [users.views:192] zeynabyousefi@email.com logged in successfully.
+[2022-04-13 15:45:12,819] INFO [users.views:192] sarboland@email.com logged in successfully.
